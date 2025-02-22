@@ -49,6 +49,13 @@
             <scope>runtime</scope>
         </dependency>
 
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.36</version>
+            <scope>provided</scope>
+        </dependency>
+
         <!-- Jsoup (For Web Scraping JobStreet) -->
         <dependency>
             <groupId>org.jsoup</groupId>
